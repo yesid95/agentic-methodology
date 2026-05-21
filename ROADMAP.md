@@ -2,6 +2,8 @@
 
 This roadmap outlines the initial evolution of Agentic Methodology. It is intentionally concise and will evolve as the repository matures.
 
+The roadmap is a living governance artifact. It must remain synchronized with repository evolution, reflect implemented reality only, and avoid speculative progress. Completed iterations should update roadmap visibility, and phases may evolve as the methodology matures.
+
 ## Phase 1: Foundational Structure
 
 **Objectives**
@@ -19,7 +21,7 @@ This roadmap outlines the initial evolution of Agentic Methodology. It is intent
 
 **Status**
 
-In progress.
+Completed. The foundational repository structure, principles, roadmap, license, and initial domain folders are present.
 
 ## Phase 2: Programming Workflows
 
@@ -36,7 +38,7 @@ In progress.
 
 **Status**
 
-Planned.
+In progress. Foundational programming principles, role definitions, workflow protocols, governance rules, and reusable templates are present.
 
 ## Phase 3: Data Analysis Workflows
 
